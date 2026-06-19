@@ -1,17 +1,24 @@
 🛒 Shopping Cart Application (Java)
 
 📌 Description
-This is a console-based Shopping Cart application built using Java and Object-Oriented Programming (OOP).
-The application allows users to create products, add them to a cart, view all items, and calculate the total price.
+
+🛒 This is a Console-Based Shopping Cart Application built using Java and Object-Oriented Programming (OOP) concepts.
+
+📦 The application allows users to create products, add them to a shopping cart, view cart items, and calculate the total purchase amount.
+
+💻 It demonstrates the practical implementation of classes, objects, methods, and arrays in Java.
 
 🛠️ Technologies Used
-Java
-OOP Concepts (Classes, Objects, Methods, Arrays)
+
+☕ Java
+
+🏗️ OOP Concepts (Classes, Objects, Methods, Arrays)
 
 ✨ Features
-📦 Create multiple products
-➕ Add products to cart
-📋 Display all cart items
-💰 Calculate total price
-🧾 Display product details
-🛒 Simple cart system using array
+
+📦 Create Multiple Products
+➕ Add Products to Cart
+📋 Display All Cart Items
+💰 Calculate Total Price
+🧾 Display Product Details
+🛒 Simple Cart Management Using Arrays
